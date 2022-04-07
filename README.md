@@ -28,3 +28,4 @@ X-Auth-Email及X-Auth-Key参数从cloudflare后台中查看。其它部分代码
 Macos Monterey 12之前的版本 需要在本地安装
 #pip install php
 
+该脚本是基于 git其他脚本优化修改的.忘了之前的地址! 
