@@ -14,7 +14,7 @@
 
 1、首先修改run.php中
 $header = array(
-    "X-Auth-Email:xxx@qq.com", #cloudflare账号
+    "X-Auth-Email:xxx@gmail.com", #cloudflare账号
     "X-Auth-Key:xxx", #cloudflare的key
 );
 
